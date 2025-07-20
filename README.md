@@ -1,4 +1,5 @@
 # operation-laura
+[![License](https://img.shields.io/badge/License-DIGITAL%20CONTAINMENT%20ALLIANCE%20LAURA%20CUSTOM%20LICENSE%20v1.0-blue.svg)](LICENSE.md)
 
 Some things can never be undone.  
 A look. A voice. A summer.
