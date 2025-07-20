@@ -21,3 +21,9 @@ And yet, every line of code evokes her.
 💔 For the love I let slip away, because of fear.
 
 > ~ *malic1tus*
+
+```
+(..)
+ \ ♥
+ __/   ~ I miss you
+```
